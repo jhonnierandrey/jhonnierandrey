@@ -1,36 +1,55 @@
-### Hi there 👋 
+# Hi there 👋 
 
-I'm **Jhonnier** a ``Full Stack Developer``, also in love with music production and always looking forward to contribute more with other people and to Open Source projects.
+I'm **Jhonnier** a `Full Stack Developer`, also in love with music production.
 
-### Let's connect:
+As a freelancer I am also involved in Photography, Multimedia Design, Music production and any other challenge I can find.
 
-[<img align="left" alt="JhonnierAndrey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Frequently, my projects are published under the name of [JAES Made It](https://www.jaesmadeit.com/).
 
 <br />
 
-### My used tools:
+## Tools 🔧
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlcss]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][htmlcss]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.jhonnierandrey.info/images/tools/14vscode.png" />][vscode]
+[<img align="left" alt="Git" width="26px" src="https://www.jhonnierandrey.info/images/tools/08git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://www.jhonnierandrey.info/images/tools/09github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://www.jhonnierandrey.info/images/tools/10bash.png" />][terminal]
+[<img align="left" alt="Workbench" width="26px" src="https://www.jhonnierandrey.info/images/tools/07sqlworkbench.png" />][workbench]
+[<img align="left" alt="NPM" width="26px" src="https://www.jhonnierandrey.info/images/tools/11npm.png" />][npm]
+[<img align="left" alt="Postman" width="26px" src="https://www.jhonnierandrey.info/images/tools/12postman.png" />][postman]
+[<img align="left" alt="Photoshop" width="26px" src="https://www.jhonnierandrey.info/images/tools/15photoshop.png" />][photoshop]
+[<img align="left" alt="Lightroom" width="26px" src="https://www.jhonnierandrey.info/images/tools/16lightroom.png" />][lightroom]
+
+<br/>
+
+## Languages/ Frameworks 👨‍💻
+[<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/00html.png" />][htmlcss]
+[<img align="left" alt="CSS3" width="26px" src="https://www.jhonnierandrey.info/images/tools/01css.png" />][htmlcss]
+[<img align="left" alt="Bootstrap" width="26px" src="https://www.jhonnierandrey.info/images/tools/13bootstrap.png" />][bootstrap]
+[<img align="left" alt="Sass" width="26px" src="https://www.jhonnierandrey.info/images/tools/02sass.png" />][sass]
+[<img align="left" alt="JavaScript" width="26px" src="https://www.jhonnierandrey.info/images/tools/03js.png" />][js]
+[<img align="left" alt="React" width="26px" src="https://www.jhonnierandrey.info/images/tools/04reactjs.png" />][react]
+[<img align="left" alt="Node.js" width="26px" src="https://www.jhonnierandrey.info/images/tools/05nodejs.png" />][node]
+[<img align="left" alt="MySQL" width="26px" src="https://www.jhonnierandrey.info/images/tools/06mysql.png" />][mysql]
+[<img align="left" alt="C" width="26px" src="https://www.jhonnierandrey.info/images/tools/c.png" />][c]
+[<img align="left" alt="Python" width="26px" src="https://www.jhonnierandrey.info/images/tools/python.png" />][python]
+[<img align="left" alt="TypeScript" width="26px" src="https://www.jhonnierandrey.info/images/tools/typescript.png" />][typescript]
+
+<br />
+
+## Connect with me 💬
+
+[<img align="left" alt="JhonnierAndrey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="background-color : white; border-radius: 3px"/>][website]
+[<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="background-color : white; border-radius: 3px"/>][youtube]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color : white; border-radius: 3px"/>][twitter]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color : white; border-radius: 3px"/>][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color : white; border-radius: 3px"/>][instagram]
 
 <br />
 
 ---
 
+[jaesmadeit]: https://www.jaesmadeit.com/
 [website]: http://www.jhonnierandrey.com/
 [twitter]: https://twitter.com/jhonnierandrey
 [youtube]: https://youtube.com/jhonnierandrey
@@ -39,12 +58,20 @@ I'm **Jhonnier** a ``Full Stack Developer``, also in love with music production 
 
 [vscode]: https://code.visualstudio.com/
 [htmlcss]: https://www.w3.org/standards/webdesign/htmlcss.html
+[bootstrap]: https://getbootstrap.com/
 [sass]: https://sass-lang.com/guide
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/en/
-[sql]: https://en.wikipedia.org/wiki/SQL
+[workbench]: https://www.sql-workbench.eu/
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://ohmyz.sh/
+[npm]: https://www.npmjs.com/
+[postman]: https://www.postman.com/
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[python]: https://www.python.org/
+[typescript]: https://www.typescriptlang.org/
+[photoshop]: https://www.adobe.com/products/photoshop.html
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html
