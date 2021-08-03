@@ -39,11 +39,11 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 
 ## Connect with me 💬
 
-[<img align="left" alt="JhonnierAndrey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="background-color : white; border-radius: 3px"/>][website]
-[<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="background-color : white; border-radius: 3px"/>][youtube]
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color : white; border-radius: 3px"/>][twitter]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color : white; border-radius: 3px"/>][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color : white; border-radius: 3px"/>][instagram]
+[<img align="left" alt="JhonnierAndrey.com" width="22px" src="https://www.jhonnierandrey.info/images/tools/globe.png"/>][website]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://www.jhonnierandrey.info/images/tools/twitter.png"/>][twitter]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://www.jhonnierandrey.info/images/tools/instagram.png"/>][instagram]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://www.jhonnierandrey.info/images/tools/linkedin.png"/>][linkedin]
+[<img align="left" alt="Youtube | YouTube" width="22px" src="https://www.jhonnierandrey.info/images/tools/youtube.png"/>][youtube]
 
 <br />
 
