@@ -1,10 +1,20 @@
-# Hi there 👋 
+# Hi there 👋
 
 I'm **Jhonnier** a `Full Stack Developer`, also in love with music production.
 
 As a freelancer I am also involved in Photography, Multimedia Design, Music production and any other challenge I can find.
 
 Frequently, my projects are published under the name of [JAES Made It](https://www.jaesmadeit.com/).
+
+<br />
+
+## Currently Learning
+
+[<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/reactnative.png" />][reactnative] &nbsp; _React Native_
+
+[<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/expo.png" />][expo] &nbsp; _React Native with Expo_
+
+[<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/swiftui.png" />][swiftui] &nbsp; _Swift / SwiftUI_
 
 <br />
 
@@ -22,7 +32,8 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 
 <br/>
 
-## Languages/ Frameworks 👨‍💻
+## Languages / Frameworks 👨‍💻
+
 [<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/00html.png" />][htmlcss]
 [<img align="left" alt="CSS3" width="26px" src="https://www.jhonnierandrey.info/images/tools/01css.png" />][htmlcss]
 [<img align="left" alt="Bootstrap" width="26px" src="https://www.jhonnierandrey.info/images/tools/13bootstrap.png" />][bootstrap]
@@ -37,7 +48,7 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 
 <br />
 
-## Connect with me 💬
+## Let's Connect 💬
 
 [<img align="left" alt="JhonnierAndrey.com" width="22px" src="https://www.jhonnierandrey.info/images/tools/globe.png"/>][website]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://www.jhonnierandrey.info/images/tools/twitter.png"/>][twitter]
@@ -55,7 +66,6 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 [youtube]: https://youtube.com/jhonnierandrey
 [instagram]: https://instagram.com/jhonnierandrey
 [linkedin]: https://linkedin.com/in/jhonnierzapata
-
 [vscode]: https://code.visualstudio.com/
 [htmlcss]: https://www.w3.org/standards/webdesign/htmlcss.html
 [bootstrap]: https://getbootstrap.com/
@@ -75,3 +85,6 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 [typescript]: https://www.typescriptlang.org/
 [photoshop]: https://www.adobe.com/products/photoshop.html
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html
+[reactnative]: https://reactnative.dev/
+[expo]: https://docs.expo.dev/
+[swiftui]: https://developer.apple.com/xcode/swiftui/
