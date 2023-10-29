@@ -34,17 +34,18 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 
 ## Languages / Frameworks 👨‍💻
 
+[<img align="left" alt="JavaScript" width="26px" src="https://www.jhonnierandrey.info/images/tools/03js.png" />][js]
+[<img align="left" alt="TypeScript" width="26px" src="https://www.jhonnierandrey.info/images/tools/typescript.png" />][typescript]
+[<img align="left" alt="React" width="26px" src="https://www.jhonnierandrey.info/images/tools/04reactjs.png" />][react]
+[<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/nestjs.png" />][nestjs]
+[<img align="left" alt="Node.js" width="26px" src="https://www.jhonnierandrey.info/images/tools/05nodejs.png" />][node]
+[<img align="left" alt="Python" width="26px" src="https://www.jhonnierandrey.info/images/tools/python.png" />][python]
+[<img align="left" alt="MySQL" width="26px" src="https://www.jhonnierandrey.info/images/tools/mongodb.png" />][mongodb]
+[<img align="left" alt="MySQL" width="26px" src="https://www.jhonnierandrey.info/images/tools/06mysql.png" />][mysql]
+[<img align="left" alt="Sass" width="26px" src="https://www.jhonnierandrey.info/images/tools/02sass.png" />][sass]
 [<img align="left" alt="HTML5" width="26px" src="https://www.jhonnierandrey.info/images/tools/00html.png" />][htmlcss]
 [<img align="left" alt="CSS3" width="26px" src="https://www.jhonnierandrey.info/images/tools/01css.png" />][htmlcss]
 [<img align="left" alt="Bootstrap" width="26px" src="https://www.jhonnierandrey.info/images/tools/13bootstrap.png" />][bootstrap]
-[<img align="left" alt="Sass" width="26px" src="https://www.jhonnierandrey.info/images/tools/02sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://www.jhonnierandrey.info/images/tools/03js.png" />][js]
-[<img align="left" alt="React" width="26px" src="https://www.jhonnierandrey.info/images/tools/04reactjs.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://www.jhonnierandrey.info/images/tools/05nodejs.png" />][node]
-[<img align="left" alt="MySQL" width="26px" src="https://www.jhonnierandrey.info/images/tools/06mysql.png" />][mysql]
-[<img align="left" alt="C" width="26px" src="https://www.jhonnierandrey.info/images/tools/c.png" />][c]
-[<img align="left" alt="Python" width="26px" src="https://www.jhonnierandrey.info/images/tools/python.png" />][python]
-[<img align="left" alt="TypeScript" width="26px" src="https://www.jhonnierandrey.info/images/tools/typescript.png" />][typescript]
 
 <br />
 
@@ -88,3 +89,5 @@ Frequently, my projects are published under the name of [JAES Made It](https://w
 [reactnative]: https://reactnative.dev/
 [expo]: https://docs.expo.dev/
 [swiftui]: https://developer.apple.com/xcode/swiftui/
+[nestjs]: https://docs.nestjs.com/
+[mongodb]: https://www.mongodb.com/
