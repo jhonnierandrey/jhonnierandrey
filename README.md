@@ -1,8 +1,8 @@
 # Hey there 👋
 
-I'm **Jhonnier**, a Full Stack Developer building web applications, mobile apps, automation tools and creative projects.
+I'm **Jhonnier**, a Full Stack Typescript Engineer building web applications, mobile apps, automation tools and creative projects.
 
-💻 React • Next.js • Node.js • TypeScript
+💻 React • Next.js • Angular • Node.js • TypeScript
 
 📱 React Native • Expo • SwiftUI
 
@@ -20,6 +20,7 @@ I'm **Jhonnier**, a Full Stack Developer building web applications, mobile apps,
 [<img align="left" alt="TypeScript" width="26px" src="https://www.jazr.me/images/tools/typescript.png" />][typescript]
 [<img align="left" alt="React" width="26px" src="https://www.jazr.me/images/tools/04reactjs.png" />][react]
 [<img align="left" alt="NextJS" width="26px" src="https://www.jazr.me/images/tools/nextjs.png" />][nextjs]
+[<img align="left" alt="Angular" width="26px" src="https://www.jazr.me/images/tools/angular.png" />][angular]
 [<img align="left" alt="NodeJS" width="26px" src="https://www.jazr.me/images/tools/05nodejs.png" />][node]
 [<img align="left" alt="NestJS" width="26px" src="https://www.jazr.me/images/tools/nestjs.png" />][nestjs]
 [<img align="left" alt="Python" width="26px" src="https://www.jazr.me/images/tools/python.png" />][python]
@@ -103,5 +104,6 @@ _"Building software, creating music, and shipping ideas."_
 [nestjs]: https://docs.nestjs.com/
 [mongodb]: https://www.mongodb.com/
 [nextjs]: https://nextjs.org/
+[angular]: https://angular.dev/
 [azure]: https://azure.microsoft.com/en-us/products/devops
 [docker]: https://www.docker.com/
